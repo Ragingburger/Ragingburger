@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ragingburger
+- 👀 I’m interested in CODING
+- 🌱 I’m currently learning GDSCRIPT/C#/SKRIPT
+- 📫 How to reach me: Discord. Ragingburger
